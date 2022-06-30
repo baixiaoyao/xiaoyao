@@ -1046,5 +1046,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1080",
-  "spider": "https://baixiaoyao.github.io/xiaoyao/mao/0627.jar"
+  "spider": "https://raw.githubusercontent.com/baixiaoyao/xiaoyao/main/mao/bai0627.jar"
 }
