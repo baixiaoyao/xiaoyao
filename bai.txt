@@ -26,7 +26,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://cdn.staticaly.com/gh/baixiaoyao/xiaoyao/main/mao/top93.jar",
+      "jar":"https://baixiaoyao.github.io/xiaoyao/mao/top93.jar",
       "ext": "dcbc975ad0684eb5a498ecd1836272e6"
     },
     {
@@ -202,7 +202,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://cdn.staticaly.com/gh/baixiaoyao/xiaoyao/main/mao/top95.jar"
+      "jar":"https://baixiaoyao.github.io/xiaoyao/mao/top95.jar"
     },
     {
       "key": "csp_Mjxq",
@@ -212,7 +212,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://cdn.staticaly.com/gh/baixiaoyao/xiaoyao/main/mao/top95.jar"
+      "jar":"https://baixiaoyao.github.io/xiaoyao/mao/top95.jar"
     },
     {
       "key": "spider_Bttoo",
@@ -222,7 +222,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://cdn.staticaly.com/gh/baixiaoyao/xiaoyao/main/mao/top95.jar"
+      "jar":"https://baixiaoyao.github.io/xiaoyao/mao/top95.jar"
     },
     {
       "key": "AliPS",
