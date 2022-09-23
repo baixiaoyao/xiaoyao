@@ -218,7 +218,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.staticaly.com/gh/baixiaoyao/xiaoyao/main/mao/json/听书网.txt"
+      "ext": "https://cdn.staticaly.com/gh/baixiaoyao/xiaoyao/main/mao/json/听书网.json"
     },
     {
       "key": "哔哩哔哩",
