@@ -1678,5 +1678,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://cdn.staticaly.com/gh/baixiaoyao/xiaoyao/main/mao/0926.jar;md5;06ed1a662fc19e4ea22f60f02770f4b6"
+  "spider": "https://cdn.staticaly.com/gh/baixiaoyao/xiaoyao/main/mao/1008.jar;md5;0e222cd871843570adbcb8a1b543301a"
 }
