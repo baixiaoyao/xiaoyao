@@ -1,4 +1,4 @@
-﻿{
+{
   "sites": [
     {
       "key": "csp_77",
@@ -26,7 +26,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
     },
     {
       "key": "KanSJ_spider",
@@ -90,6 +90,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "农民影视(SP)",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/baixiaoyao/xiaoyao/main/mao/json/nmys.json"
     },
     {
       "key": "csp_Wmkk",
@@ -347,23 +357,23 @@
       "filterable": 1
     },
     {
-            "key": "t4public",
-            "name": "T4",
-            "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=81461f2e9d0b4ffb86612db403824b8a&timeout=10",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "T4",
-            "name": "T4_2",
-            "type": 4,
-            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=81461f2e9d0b4ffb86612db403824b8a&timeout=10",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
+      "key": "t4public",
+      "name": "T4",
+      "type": 4,
+      "api": "https://t4.secan.icu/vod?sites=all&ali_token=ab0b9a7555e84175bbc6f8e60310ae49&timeout=10",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "T4",
+      "name": "T4_2",
+      "type": 4,
+      "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=ab0b9a7555e84175bbc6f8e60310ae49&timeout=10",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
     {
       "key": "AliPS",
       "name": "🐞盘搜",
@@ -372,7 +382,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
     },
     {
       "key": "FindZY",
@@ -382,7 +392,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
     },
     {
       "key": "csp_Yiso",
@@ -392,7 +402,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
     },
     {
       "key": "Upyunso",
@@ -402,7 +412,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
     },
     {
       "key": "push_agent",
@@ -412,7 +422,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
     },
     {
       "key": "影图",
@@ -432,15 +442,14 @@
       "quickSearch": 1,
       "filterable": 1
     },
-     {
+    {
       "key": "csp_QQ",
       "name": "🐧腾讯视频(SP)",
       "type": 3,
       "api": "csp_QQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://agit.ai/1264237790/f8d22b54864ac374/raw/branch/master/258602"
+      "filterable": 1
     },
     {
       "key": "爱奇艺",
@@ -449,8 +458,7 @@
       "api": "csp_IQIYI",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://agit.ai/1264237790/f8d22b54864ac374/raw/branch/master/258602"
+      "filterable": 1
     },
     {
       "key": "csp_MGTV",
@@ -459,8 +467,7 @@
       "api": "csp_MGTV",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://agit.ai/1264237790/f8d22b54864ac374/raw/branch/master/258602"
+      "filterable": 1
     },
     {
       "key": "csp_xpath_网络搜集库huaya",
@@ -1678,5 +1685,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://cdn.staticaly.com/gh/baixiaoyao/xiaoyao/main/mao/1008.jar;md5;0e222cd871843570adbcb8a1b543301a"
+  "spider": "https://raw.iqiq.io/baixiaoyao/xiaoyao/main/mao/1008.jar;md5;0e222cd871843570adbcb8a1b543301a"
 }
