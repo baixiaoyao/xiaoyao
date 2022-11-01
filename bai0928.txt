@@ -26,7 +26,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
+      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
     },
     {
       "key": "KanSJ_spider",
@@ -360,7 +360,7 @@
       "key": "t4public",
       "name": "T4",
       "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&ali_token=ab0b9a7555e84175bbc6f8e60310ae49&timeout=10",
+      "api": "https://t4.secan.icu/vod?sites=all&ali_token=https://kebedd69.github.io/TVbox-interface/token.json&timeout=10",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -369,7 +369,7 @@
       "key": "T4",
       "name": "T4_2",
       "type": 4,
-      "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=ab0b9a7555e84175bbc6f8e60310ae49&timeout=10",
+      "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=https://kebedd69.github.io/TVbox-interface/token.json&timeout=10",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -382,7 +382,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
+      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
     },
     {
       "key": "FindZY",
@@ -392,7 +392,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
+      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
     },
     {
       "key": "csp_Yiso",
@@ -402,7 +402,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
+      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
     },
     {
       "key": "Upyunso",
@@ -412,7 +412,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
+      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
     },
     {
       "key": "push_agent",
@@ -422,7 +422,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
+      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
     },
     {
       "key": "影图",
