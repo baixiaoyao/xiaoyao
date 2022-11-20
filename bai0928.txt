@@ -26,7 +26,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+      "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
     },
     {
       "key": "KanSJ_spider",
@@ -227,7 +227,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.staticaly.com/gh/baixiaoyao/freed/master/TVBox/MaooXB2/乐猪影视.json"
+      "ext": "https://raw.iqiq.io/baixiaoyao/freed/master/TVBox/MaooXB2/乐猪影视.json"
     },
     {
       "key": "csp_biubiu_ting",
@@ -237,7 +237,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.staticaly.com/gh/baixiaoyao/xiaoyao/main/mao/json/听书网.json"
+      "ext": "https://raw.iqiq.io/baixiaoyao/xiaoyao/main/mao/json/听书网.json"
     },
     {
       "key": "csp_XBPQ极品影视",
@@ -247,7 +247,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cdn.staticaly.com/gh/baixiaoyao/xiaoyao/main/mao/xBPQ/极品影视(xBPQ).json"
+      "ext": "https://raw.iqiq.io/baixiaoyao/xiaoyao/main/mao/xBPQ/极品影视(xBPQ).json"
     },
     {
       "key": "csp_XBPQ凌云影视",
@@ -257,7 +257,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cdn.staticaly.com/gh/baixiaoyao/xiaoyao/main/mao/xBPQ/凌云影视(xBPQ).json"
+      "ext": "https://raw.iqiq.io/baixiaoyao/xiaoyao/main/mao/xBPQ/凌云影视(xBPQ).json"
     },
     {
       "key": "csp_XBPQvoflixHD",
@@ -267,7 +267,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cdn.staticaly.com/gh/baixiaoyao/xiaoyao/main/mao/xBPQ/voflixHD(xBPQ).json"
+      "ext": "https://raw.iqiq.io/baixiaoyao/xiaoyao/main/mao/xBPQ/voflixHD(xBPQ).json"
     },
     {
       "key": "哔哩哔哩",
@@ -277,7 +277,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://cdn.staticaly.com/gh/baixiaoyao/xiaoyao/main/mao/json/bili.json"
+      "ext": "https://raw.iqiq.io/baixiaoyao/xiaoyao/main/mao/json/bili.json"
     },
     {
       "key": "学前儿童",
@@ -287,7 +287,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://cdn.staticaly.com/gh/baixiaoyao/xiaoyao/main/mao/json/学前儿童.json"
+      "ext": "https://raw.iqiq.io/baixiaoyao/xiaoyao/main/mao/json/学前儿童.json"
     },
     {
       "key": "小学学堂",
@@ -297,7 +297,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://cdn.staticaly.com/gh/baixiaoyao/xiaoyao/main/mao/json/小学学堂.json"
+      "ext": "https://raw.iqiq.io/baixiaoyao/xiaoyao/main/mao/json/小学学堂.json"
     },
     {
       "key": "初中学堂",
@@ -307,7 +307,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://cdn.staticaly.com/gh/baixiaoyao/xiaoyao/main/mao/json/初中学堂.json"
+      "ext": "https://raw.iqiq.io/baixiaoyao/xiaoyao/main/mao/json/初中学堂.json"
     },
     {
       "key": "高中学堂",
@@ -317,7 +317,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://cdn.staticaly.com/gh/baixiaoyao/xiaoyao/main/mao/json/高中学堂.json"
+      "ext": "https://raw.iqiq.io/baixiaoyao/xiaoyao/main/mao/json/高中学堂.json"
     },
     {
       "key": "csp_xpath_A33",
@@ -327,7 +327,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://cdn.staticaly.com/gh/baixiaoyao/freed/master/TVBox/MaooXP/kuqimv.json"
+      "ext": "https://raw.iqiq.io/baixiaoyao/freed/master/TVBox/MaooXP/kuqimv.json"
     },
     {
       "key": "spider_IKan",
@@ -360,7 +360,7 @@
       "key": "t4public",
       "name": "T4",
       "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&ali_token=https://kebedd69.github.io/TVbox-interface/token.json&timeout=10",
+      "api": "https://t4.secan.icu/vod?sites=all&ali_token=https://zdir.kebedd69.repl.co/public/TVBox/token.json&timeout=10",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -369,7 +369,7 @@
       "key": "T4",
       "name": "T4_2",
       "type": 4,
-      "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=https://kebedd69.github.io/TVbox-interface/token.json&timeout=10",
+      "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=https://zdir.kebedd69.repl.co/public/TVBox/token.json&timeout=10",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -382,7 +382,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+      "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
     },
     {
       "key": "FindZY",
@@ -392,7 +392,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+      "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
     },
     {
       "key": "csp_Yiso",
@@ -402,7 +402,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+      "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
     },
     {
       "key": "Upyunso",
@@ -412,7 +412,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+      "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
     },
     {
       "key": "push_agent",
@@ -422,7 +422,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+      "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
     },
     {
       "key": "影图",
